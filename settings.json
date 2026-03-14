@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ANU",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "BaboonSMP1.aternos.me",
+    "port": 14805,
     "version": "",
     "try-creative": false
   },
@@ -27,12 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "U Are Gay",
         "I like to play Minecraft!"
       ]
     },
@@ -47,7 +47,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
